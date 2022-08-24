@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Revflow](https://www.revflow.finance)
 
-- 👯 I’m looking to collaborate on **DeFi-related work, preferably Real-World Asset Financing**
+- 👯 I’m looking to collaborate on **DeFi-related work, preferably Real-World Asset Financing**. On a side note; I do freelance work for Oracle Fusion (ERP/HCM/EPM Cloud). If you're looking to 10x your reporting capability, reach out - I design, develop and deliver solutions that have scaled to hundreds of thousands of users across Investment Banking, Aviation, Government, Construction, Media and Education! 
 
 - 💬 Ask me about **SQL, Python, DeFi, Fintech**
 
