@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">A passionate data engineer & founder based in London, UK</h3>
+<h3 align="center">A passionate Analytics Consultant & AI Enthusiast based in London, UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronleggett96&label=Profile%20views&color=0e75b6&style=flat" alt="aaronleggett96" /> </p>
 
-- 🔭 I’m currently working on [Revflow](https://www.revflow.finance)
-
-- 👯 I’m looking to collaborate on **DeFi-related work, preferably Real-World Asset Financing**. On a side note; I do freelance work for Oracle Fusion (ERP/HCM/EPM Cloud). If you're looking to 10x your reporting capability, reach out - I design, develop and deliver solutions that have scaled to hundreds of thousands of users across Investment Banking, Aviation, Government, Construction, Media and Education! 
-
-- 💬 Ask me about **SQL, Python, DeFi, Fintech**
-
-- 📫 How to reach me **aaron@revflow.finance**
+- 🔭 I’m currently working on **Hyperbase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
