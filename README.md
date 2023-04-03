@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronleggett96&label=Profile%20views&color=0e75b6&style=flat" alt="aaronleggett96" /> </p>
 
-- 🔭 I’m currently working on **Hyperbase**
+- 🔭 I’m currently working on **Anything OpenAI ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
