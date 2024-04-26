@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">A passionate Analytics Consultant & AI Enthusiast based in London, UK</h3>
+<h3 align="center">I design, build and deliver elegant enterprise analytics solutions used by tens of thousands of people globally</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronleggett96&label=Profile%20views&color=0e75b6&style=flat" alt="aaronleggett96" /> </p>
 
-- 🔭 I’m currently working on **Oracle Fusion Analytics**
+- 🔭 I’m currently working on **Oracle Fusion Analytics & NetSuite Analytics Warehouse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
